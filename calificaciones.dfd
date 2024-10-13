@@ -1,0 +1,116 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+14
+'ingresar 1ra'
+5
+1
+3
+ca1
+4
+1
+14
+'ingresar 2da'
+5
+1
+3
+ca2
+4
+1
+14
+'ingresar 3ra'
+5
+1
+3
+ca3
+4
+1
+14
+'ingresar 4ta'
+5
+1
+3
+ca4
+4
+1
+14
+'ingresar 5ta'
+5
+1
+3
+ca5
+6
+2
+3
+cal
+19
+ca1+ca2+ca3+ca4+ca5
+1
+p
+5
+cal/5
+4
+1
+23
+'su calificacion es:',p
+7
+1
+1
+4
+p<70
+4
+1
+4
+'na'
+13
+7
+1
+1
+15
+p>=70 and p<=74
+4
+1
+12
+'suficiente'
+13
+7
+1
+1
+15
+p>=75 and p<=84
+4
+1
+7
+'bueno'
+13
+7
+1
+1
+18
+p >= 85 and p<= 94
+4
+1
+9
+'notable'
+13
+7
+1
+1
+7
+p >= 95
+4
+1
+11
+'excelente'
+13
+13
+13
+13
+13
+13
+1
