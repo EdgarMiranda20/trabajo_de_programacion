@@ -5,7 +5,7 @@ public class Ciclofor {
         int fact;
         do{
          
-        num=Byte.parseByte(JOptionPane.showInputDialog("Ingresa un nuemero"));
+        num=Byte.parseByte(JOptionPane.showInputDialog("Ingresa un nuemero que quieras conocer su fac"));
         fact=1;
                 for(x=num; x>=1;x--){
                     fact*=x; 
