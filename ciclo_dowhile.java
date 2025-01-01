@@ -13,7 +13,7 @@ public class ciclo_dowhile {
          cu5=Byte.parseByte(JOptionPane.showInputDialog("Ingresa tu quinta calificación"));
          promedio=(cu1+cu2+cu3+cu4+cu5)/5;
              
-                 System.out.println("Tu calificacion es de: " + promedio);
+                 System.out.println("Su calificacion es: " + promedio);
                  alumno++;
                  
         } while(alumno<=34);
