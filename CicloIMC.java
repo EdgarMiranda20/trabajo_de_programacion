@@ -37,7 +37,7 @@ public class CicloIMC {
             System.out.println("Obesidad Morbida");
         }
         //Esto es una actualizacion del do/while
-        resp=Byte.parseByte(JOptionPane.showInputDialog("Escribe 1 si deseas realizar un "
+        resp=Byte.parseByte(JOptionPane.showInputDialog("Escribe 1 si deseas realizar otro "
                 + " nuevo calculo"));
           }while(resp==1);//Aqui esta la condicion de el do/while
     } //Cierra el metodo principal
